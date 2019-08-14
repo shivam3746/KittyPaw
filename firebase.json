@@ -1,0 +1,14 @@
+{
+  "firestore": {
+    "rules": "y",
+    "indexes": "firestore.indexes.json"
+  },
+  "functions": {
+    "predeploy": [
+      "npm --prefix \"functions\" run lint"
+    ]
+  },
+  "storage": {
+    "rules": "storage.rules"
+  }
+}
