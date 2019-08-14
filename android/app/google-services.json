@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "602323699804",
+    "firebase_url": "https://kittypaw-af621.firebaseio.com",
+    "project_id": "kittypaw-af621",
+    "storage_bucket": "kittypaw-af621.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602323699804:android:b056a51a744ddd58",
+        "android_client_info": {
+          "package_name": "com.example.kitty_paw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602323699804-rd8a4qj77capofn55i4go99f0b45b4ie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kitty_paw",
+            "certificate_hash": "6d81fc41546d124d8efc6c0a164414490e5b7439"
+          }
+        },
+        {
+          "client_id": "602323699804-1b9pp6jajcr369genchlp0f59bj81r7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMzrpK2Skiqqsir8nGGqmAzEv9K3Rn5vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602323699804-1b9pp6jajcr369genchlp0f59bj81r7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
