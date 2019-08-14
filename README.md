@@ -21,6 +21,6 @@ samples, guidance on mobile development, and a full API reference.
 
 <p align="center">
   <img src="https://github.com/shivam3746/KittyPaw/raw/master/screenshots/Screenshot_20190815-003750.jpg" width="256" height="500">
-  &nbsp
+  &nbsp &nbsp
   <img src="https://github.com/shivam3746/KittyPaw/raw/master/screenshots/Screenshot_20190815-003756.jpg" width="256" height="500">
 </p>  
